@@ -1,5 +1,5 @@
 body {
-    color: #333;
+    color: red;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -38,4 +38,9 @@ body {
 
 #post{
     padding: 1em;
+}
+
+div p{
+    padding: 1em;
+    
 }
