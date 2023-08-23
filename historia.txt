@@ -1,14 +1,6 @@
 Esta es la historia de Kevin Espinosa
 
-<<<<<<< HEAD
-Kevin Espinosa tiene 27 years y nacio en Colombia.
-Viviendo en todo el mundo.
-
-Hoy hablaremos de su vida y obra maestra.
-
-En camara parece alto pero la verdad no es tan alto
-=======
 Kevin Espinosa tiene 27 years y nacion en Colombia
+Viviendo en todo el mundo
 
 Manana nos enfocaremos en su vida laboral.
->>>>>>> cabecera
